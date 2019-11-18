@@ -1,0 +1,218 @@
+body
+{
+	margin: 0;
+	background-color: #669999;
+	font-family: Alatsi;
+	overflow: hidden;
+}
+#home
+{
+	padding: 20px;
+	background-color: #1c334a;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	width: 60%; 
+	height: 600px;
+	border-radius: 20px;
+	box-shadow: 20px 20px rgba(0,0,0,0.7);
+}
+#home1
+{
+	padding: 20px;
+	background-image: url("images/badminton.jpg");
+	background-size: 100%;
+	background-color: #000;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	width: 60%; 
+	height: 600px;
+	border-radius: 20px;
+	box-shadow: 20px 20px rgba(0,0,0,0.7);
+}
+#home3
+{
+	padding: 20px;
+	background-image: url("images/cricket1.jpg");
+	background-size: 100%;
+	background-color: #000;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	width: 60%; 
+	height: 600px;
+	border-radius: 20px;
+	box-shadow: 20px 20px rgba(0,0,0,0.7);
+}
+#home4
+{
+	padding: 20px;
+	background-image: url("images/basketball.jpg");
+	background-size: 100%;
+	background-color: #000;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	width: 60%; 
+	height: 600px;
+	border-radius: 20px;
+	box-shadow: 20px 20px rgba(0,0,0,0.7);
+}
+#home5
+{
+	padding: 20px;
+	background-image: url("images/football.jpg");
+	background-size: 100%;
+	background-color: #000;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	width: 60%; 
+	height: 600px;
+	border-radius: 20px;
+	box-shadow: 20px 20px rgba(0,0,0,0.7);
+}
+#home2
+{
+	padding: 20px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	width: 60%; 
+	height: 350px;
+	background-color: rgba(0,0,0,0.7);
+	font-family: 'Alegreya Sans';
+	font-size: 18px;
+}
+#next
+{
+	background-color: #000;
+	color: #fff;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	width: 100px;
+	height: 30px;
+	float:right;
+}
+#next1
+{
+	background-color: #000;
+	color: #fff;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	width: 100px;
+	height: 30px;
+	float:right;
+}
+#next2
+{
+	background-color: #000;
+	color: #fff;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	width: 100px;
+	height: 30px;
+	float:right;
+}
+#homeleftimg
+{
+	width: 1000px;
+	height: 700px;
+	float: right;
+	margin-top: -100px;
+	margin-left: 100px;
+	z-index: 2;
+	position: fixed;
+}
+#homeleftimg1
+{
+	width: 1300px;
+	height: 1100px;
+	float: right;
+	margin-top: -330px;
+	margin-left: 100px;
+	z-index: 2;
+	position: fixed;
+}
+#homeleftimg2
+{
+	width: 650px;
+	height: 500px;
+	float: right;
+	margin-top: 0px;
+	margin-left: 300px;
+	z-index: 2;
+	position: fixed;
+}
+.rightcontent
+{
+	color:#fff;
+	float: left;
+	margin-left: 15px;
+}
+.leftcontent
+{
+	color:#fff;
+	float: left;
+	margin-left: 10px;
+}
+.rightcontent:hover
+{
+	opacity: 0.6;
+}
+#details
+{
+	color:#fff;
+	margin-top: 100px;
+	font-size: 40px;
+	position: absolute;
+}
+#details1
+{
+	color:#fff;
+	margin-top: 170px;
+	font-size: 20px;
+	position: absolute;
+	width: 800px;
+	font-family: Kalam;
+}
+#final
+{
+	bottom: 0;
+	position: absolute;
+	margin-bottom: 20px;
+	font-size: 24px;
+}
+.fa
+{
+	margin-left: 10px;
+}
+.fa:hover
+{
+	opacity: 0.6;
+}
+a
+{
+	text-decoration: none;
+	color: #fff;
+}
+#ora
+{
+	color:#f2785a;
+	font: Courgette;
+}
+#blue
+{
+	color:#1466b8;
+	font: Courgette;
+}
